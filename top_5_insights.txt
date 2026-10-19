@@ -1,0 +1,25 @@
+AIRLINES EDA — TOP 5 KEY INSIGHTS
+
+1. Overall Passenger Satisfaction
+Out of 103,904 passenger records, 43.33% were satisfied, while 56.67% were neutral or dissatisfied.
+
+2. Business Class Satisfaction
+Business Class had the highest satisfaction rate at 69.43%.
+
+3. Economy Class Satisfaction
+Eco Class had the lowest satisfaction rate at 18.61%, indicating an area for further investigation.
+
+4. Average Flight Delays
+Average departure delay was 14.82 minutes, while average arrival delay was 15.13 minutes.
+
+5. Delays Exceeding 15 Minutes
+There were 23,052 departure-delay records and 23,635 arrival-delay records exceeding 15 minutes.
+
+BUSINESS RECOMMENDATIONS
+- Investigate factors linked to low satisfaction in Eco Class.
+- Review passenger service ratings and identify areas for improvement.
+- Monitor departure and arrival delays.
+- Investigate long delays using additional operational data.
+
+DATA LIMITATIONS
+The dataset does not contain loyalty-program details or specific delay reasons. Therefore, these topics could not be directly analyzed in this project.
